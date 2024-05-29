@@ -102,7 +102,7 @@ h1 span:before {
 
 @keyframes gerak {
     0% {
-        content: 'Selamat Datang';
+        content: 'Hola... Selamat Datang';
     }
     50% {
         content: 'Saya Feby Angel (222611005), 4B';
